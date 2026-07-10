@@ -1,0 +1,17 @@
+{
+    "name": "drgMaskapai",
+    "short_name": "drgMaskapai",
+    "start_url": "/",
+    "background_color": "#003cfe",
+    "description": "Sistem Informasi Maskapai Penerbangan",
+    "display": "standalone",
+    "theme_color": "#003cfe",
+    "icons": [
+        {
+            "src": "icon-72x72.png?v=1782716607",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
