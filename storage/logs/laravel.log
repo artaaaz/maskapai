@@ -1670,3 +1670,116 @@
 [2026-07-18 13:21:14] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
 [2026-07-18 13:21:15] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
 [2026-07-18 13:21:16] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:03:04] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:03:07] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:03:08] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:03:14] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:03:15] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:03:23] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:03:24] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:03:33] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:03:56] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:03:57] local.INFO: reCAPTCHA v2 bypassed in local development  
+[2026-07-18 20:04:08] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:04:23] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:04:35] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:05:16] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:05:18] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:05:28] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:05:29] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:05:32] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:05:52] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:05:58] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:05:59] local.INFO: Login authenticated {"user_id":5,"email":"artaaazmuridbazma@gmail.com","email_verified_at":"2026-07-17 19:23:34"} 
+[2026-07-18 20:05:59] local.INFO: Login SUCCESS - verified user {"user_id":5,"role":"customer","redirect_to":"http://127.0.0.1:8000/customer/home"} 
+[2026-07-18 20:06:00] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:06:55] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:08] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:17] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:23] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:28] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:29] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:33] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:34] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:48] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:49] local.INFO: Login authenticated {"user_id":1,"email":"admin@drg.test","email_verified_at":"2026-07-17 19:18:53"} 
+[2026-07-18 20:07:49] local.INFO: Login SUCCESS - verified user {"user_id":1,"role":"admin","redirect_to":"http://127.0.0.1:8000/admin/dashboard"} 
+[2026-07-18 20:07:50] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:54] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:55] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:07:58] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:08:44] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:08:45] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:08:49] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:08:52] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:05] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:06] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:08] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:22] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:23] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:26] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:27] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:33] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:34] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:41] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:42] local.INFO: Login authenticated {"user_id":5,"email":"artaaazmuridbazma@gmail.com","email_verified_at":"2026-07-17 19:23:34"} 
+[2026-07-18 20:09:42] local.INFO: Login SUCCESS - verified user {"user_id":5,"role":"customer","redirect_to":"http://127.0.0.1:8000/customer/home"} 
+[2026-07-18 20:09:42] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:09:59] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:10:02] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:10:24] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:10:42] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:10:43] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:11:55] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:11:58] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:12:23] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:12:24] local.INFO: Midtrans status update {"order_id":"BK-PNWG7OVC","transaction_status":"settlement","fraud_status":"accept"} 
+[2026-07-18 20:12:25] local.WARNING: Midtrans sync failed for BK-PNWG7OVC: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_id' in 'field list' (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: drg_maskapai_penerbangan, SQL: update `seats` set `status` = booked, `booking_id` = 5, `seats`.`updated_at` = 2026-07-18 20:12:25 where `airplane_id` = 7 and `seat_number` in (12A))  
+[2026-07-18 20:12:43] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:13:02] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:13:07] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:13:10] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:13:17] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:13:18] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:13:22] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:13:33] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:13:34] local.INFO: Login authenticated {"user_id":2,"email":"staff@drg.test","email_verified_at":"2026-07-17 19:18:54"} 
+[2026-07-18 20:13:34] local.INFO: Login SUCCESS - verified user {"user_id":2,"role":"staff","redirect_to":"http://127.0.0.1:8000/staff/dashboard"} 
+[2026-07-18 20:13:34] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:13:50] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:13:59] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:09] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:10] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:16] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:17] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:24] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:25] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:30] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:32] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:37] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:51] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:53] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:14:56] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:03] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:04] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:10] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:11] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:19] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:20] local.INFO: Login authenticated {"user_id":5,"email":"artaaazmuridbazma@gmail.com","email_verified_at":"2026-07-17 19:23:34"} 
+[2026-07-18 20:15:20] local.INFO: Login SUCCESS - verified user {"user_id":5,"role":"customer","redirect_to":"http://127.0.0.1:8000/customer/home"} 
+[2026-07-18 20:15:21] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:28] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:33] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:40] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:41] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:45] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:58] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:15:59] local.INFO: Login authenticated {"user_id":3,"email":"manager@drg.test","email_verified_at":"2026-07-17 19:18:54"} 
+[2026-07-18 20:15:59] local.INFO: Login SUCCESS - verified user {"user_id":3,"role":"manager","redirect_to":"http://127.0.0.1:8000/manager/dashboard"} 
+[2026-07-18 20:16:00] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:16:09] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:16:14] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:16:27] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:16:34] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:16:58] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
+[2026-07-18 20:17:00] local.INFO: SSL CA certificate configured: C:\Users\artaa\Downloads\maskapai-fixed-audit\maskapai-main\config\cacert.pem  
