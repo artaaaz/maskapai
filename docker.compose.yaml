@@ -1,0 +1,67 @@
+version: '3.8'
+
+services:
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: drg_maskapai_app
+    restart: unless-stopped
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www
+    networks:
+      - drg-maskapai-network
+
+  nginx:
+    image: nginx:alpine
+    container_name: drg_maskapai_nginx
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    volumes:
+      - ./:/var/www
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - app
+    networks:
+      - drg-maskapai-network
+
+  mysql:
+    image: mysql:8.0
+    container_name: drg_maskapai_mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: drg_maskapai_penerbangan
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_USER: maskapai_user
+      MYSQL_PASSWORD: maskapai_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - drg-maskapai-network
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: drg_maskapai_phpmyadmin
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    environment:
+      PMA_HOST: mysql
+      MYSQL_ROOT_PASSWORD: rootpassword
+    depends_on:
+      - mysql
+    networks:
+      - drg-maskapai-network
+
+volumes:
+  mysql_data:
+
+networks:
+  drg-maskapai-network:
+    driver: bridge
+    
