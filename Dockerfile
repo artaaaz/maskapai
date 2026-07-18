@@ -1,3 +1,9 @@
+# ============================================
+# Dockerfile - UKK Maskapai Penerbangan
+# ============================================
+# Laravel 11 | PHP 8.3
+# ============================================
+
 FROM php:8.3-fpm
 
 # Install system dependencies
@@ -37,7 +43,10 @@ WORKDIR /var/www
 # Copy application files
 COPY . .
 
-# Create Laravel required directories with proper permissions
+# Install Composer dependencies (optimized for production)
+RUN composer install --no-dev --optimize-autoloader --no-interaction --no-progress
+
+# Create initial directories with proper permissions (fallback for entrypoint)
 RUN mkdir -p storage/framework/cache/data \
     storage/framework/sessions \
     storage/framework/views \
@@ -49,14 +58,13 @@ RUN mkdir -p storage/framework/cache/data \
     && chown -R www-data:www-data bootstrap/cache \
     && chown -R www-data:www-data public
 
-# Install Composer dependencies (optimized for production)
-RUN composer install --no-dev --optimize-autoloader --no-interaction --no-progress
-
-# Create nginx log directory
-RUN mkdir -p /var/log/nginx && chmod -R 755 /var/log/nginx
+# Copy entrypoint script
+COPY docker/entrypoint.sh /usr/local/bin/entrypoint.sh
+RUN chmod +x /usr/local/bin/entrypoint.sh
 
 # Expose PHP-FPM port
 EXPOSE 9000
 
-# Start PHP-FPM
+# Set entrypoint and default command
+ENTRYPOINT ["entrypoint.sh"]
 CMD ["php-fpm"]
